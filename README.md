@@ -12,10 +12,6 @@
 * ExpressJs
 * NestJs
 
-# Experience
-* i am working for two years in NodeJs
-* Cooperation with Several Reputable Companies
-
 # Contact 
 * Email: javadrezaie339@gmail.com
 * linkedin: https://www.linkedin.com/in/mohammad-javad-rezaie/
